@@ -27,11 +27,6 @@
         <label>Public Relations</label>
     </standardValue>
     <standardValue>
-        <fullName>Seminar - Internal</fullName>
-        <default>false</default>
-        <label>Seminar - Internal</label>
-    </standardValue>
-    <standardValue>
         <fullName>Seminar - Partner</fullName>
         <default>false</default>
         <label>Seminar - Partner</label>
@@ -60,5 +55,10 @@
         <fullName>DemoForDreamforce</fullName>
         <default>false</default>
         <label>DemoForDreamforce</label>
+    </standardValue>
+    <standardValue>
+        <fullName>NewFieldValue</fullName>
+        <default>false</default>
+        <label>NewFieldValue</label>
     </standardValue>
 </StandardValueSet>
