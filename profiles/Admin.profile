@@ -4,6 +4,9 @@
     </classAccesses><classAccesses>
         <apexClass>ClassTheSecond</apexClass>
         <enabled>true</enabled>
+    </classAccesses><classAccesses>
+        <apexClass>CommunitiesLoginControllerTest</apexClass>
+        <enabled>true</enabled>
     </classAccesses><applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>false</default>
