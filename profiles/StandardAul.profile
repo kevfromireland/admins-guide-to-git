@@ -922,6 +922,10 @@
         <editable>true</editable>
         <field>Account.DemoField__c</field>
         <readable>true</readable>
+    </fieldPermissions><fieldPermissions>
+        <editable>true</editable>
+        <field>Account.FavoriteGitClient__c</field>
+        <readable>true</readable>
     </fieldPermissions><layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments><layoutAssignments>

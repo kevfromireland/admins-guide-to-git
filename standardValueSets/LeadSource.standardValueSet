@@ -61,4 +61,9 @@
         <default>false</default>
         <label>NewFieldValue</label>
     </standardValue>
+    <standardValue>
+        <fullName>Dreamforce17</fullName>
+        <default>false</default>
+        <label>Dreamforce17</label>
+    </standardValue>
 </StandardValueSet>
